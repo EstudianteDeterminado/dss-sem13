@@ -1,0 +1,63 @@
+{
+  "articulos": [
+    {
+      "nombre": "detergente",
+      "precio": 151,
+      "marca": "Ace",
+      "tamanio": 12,
+      "color": "Azul",
+      "peso": 120,
+      "disponibilidad": "Si"
+    },
+    {
+      "id": "Smv5Jb",
+      "nombre": "Prueba2",
+      "marca": "Marca12",
+      "precio": 8,
+      "tamanio": 100,
+      "color": "Verde",
+      "peso": 10,
+      "disponibilidad": "no"
+    },
+    {
+      "id": "KZMWu5",
+      "nombre": "Prueba2",
+      "marca": "Marca3",
+      "precio": 4,
+      "tamanio": 100,
+      "color": "Verde",
+      "peso": 10,
+      "disponibilidad": "si"
+    },
+    {
+      "id": "q0v6KS",
+      "nombre": "Prueba",
+      "marca": "Marca1",
+      "precio": 10,
+      "tamanio": 100,
+      "color": "Verde",
+      "peso": 10,
+      "disponibilidad": "si"
+    },
+    {
+      "id": "SgRpQU",
+      "nombre": "Prueba",
+      "marca": "Marca1",
+      "precio": 10,
+      "tamanio": 100,
+      "color": "Verde",
+      "peso": 10,
+      "disponibilidad": "si"
+    },
+    {
+      "id": "ZgRpEA",
+      "nombre": "Prueba3",
+      "marca": "Marca21",
+      "precio": 20,
+      "tamanio": 105,
+      "color": "Amarillo",
+      "peso": 12,
+      "disponibilidad": "no"
+    }
+  ]
+}
